@@ -2,7 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-/coloquioIP-Capdevila.iml
 
 ### Eclipse ###
 .apt_generated
